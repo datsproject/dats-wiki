@@ -6,7 +6,7 @@ The structure of the repository is as shown below:
 
 | Topic                                                 | Description                                                   |
 | ----------------------------------------------------- | ------------------------------------------------------------- |
-| [ABOUT US]                                            |                                                               |
+| [ABOUT US]()                                          |                                                               |
 | [WHAT IS THE DATSPROJECT]                             |                                                               |
 | [PROBLEMS]                                            |                                                               |
 | [SOLUTIONS]                                           |                                                               |
