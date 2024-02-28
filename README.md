@@ -8,7 +8,7 @@ The structure of the repository is as shown below:
 | ----------------------------------------------------- | ------------------------------------------------------------- |
 | [ABOUT US]                                            | About Us                                                      |
 | [WHAT IS THE DATSPROJECT]                             | What Is The Dats Project                                      |
-| [PROBLEMS]                                            |                                                               |
+| [PROBLEMS]                                            | Problems                                                      |
 | [SOLUTIONS]                                           |                                                               |
 | [SERVICES]                                            |                                                               |
 | [OUR APPROACH]                                        |                                                               |
