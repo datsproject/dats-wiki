@@ -11,12 +11,7 @@ The structure of the repository is as shown below:
 | [PROBLEMS]                                            | Problems                                                      |
 | [SOLUTIONS]                                           | Solutions                                                     |
 | [SERVICES]                                            | Services                                                      |
-| [OUR APPROACH]                                        |                                                               |
+| [OUR APPROACH]                                        | Out Approach                                                  |
 | [WHY BLOCKCHAIN?]                                     |                                                               |
 | [BUSINESS MODEL]                                      |                                                               |
 | [WHAT MAKES US DIFFERENT?]                            |                                                               |
-
-## Yeni içerik
-## Yeni içerik
-## Yeni içerik
-## Yeni içerik
