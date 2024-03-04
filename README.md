@@ -12,6 +12,6 @@ The structure of the repository is as shown below:
 | [SOLUTIONS]                                           | Solutions                                                     |
 | [SERVICES]                                            | Services                                                      |
 | [OUR APPROACH]                                        | Out Approach                                                  |
-| [WHY BLOCKCHAIN?]                                     |                                                               |
+| [WHY BLOCKCHAIN?]                                     | Why Blockchain                                                |
 | [BUSINESS MODEL]                                      |                                                               |
 | [WHAT MAKES US DIFFERENT?]                            |                                                               |
