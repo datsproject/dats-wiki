@@ -15,3 +15,5 @@ The structure of the repository is as shown below:
 | [WHY BLOCKCHAIN?]                                     | Why Blockchain                                                |
 | [BUSINESS MODEL]                                      | Bussiness Model                                               |
 | [WHAT MAKES US DIFFERENT?]                            | What Makes Us Different                                       |
+
+## Yeni içerik
