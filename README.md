@@ -17,3 +17,4 @@ The structure of the repository is as shown below:
 | [WHAT MAKES US DIFFERENT?]                            | What Makes Us Different                                       |
 
 ## Yeni içerik
+## Yeni içerik
