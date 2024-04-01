@@ -1,6 +1,7 @@
 # Dats Project | Wiki
 
-This project contains project details, how to, etc.
+## Overview
+Postmodern Web3 Security Infrastructure Paradigm!
 
 The structure of the repository is as shown below:
 
