@@ -3,6 +3,9 @@
 ## Overview
 Postmodern Web3 Security Infrastructure Paradigm!
 
+> [!NOTE]
+> Postmodern Web3 Security Infrastructure paradigm represents a shift towards a decentralized, collaborative, and multi-layered approach to security, which is different from traditional security approaches.
+
 The structure of the repository is as shown below:
 
 | Topic                                                 | Description                                                   |
