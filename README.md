@@ -10,6 +10,16 @@ Postmodern Web3 Security Infrastructure Paradigm!
 
 Web3 security is threatening the future of blockchain technology, the vision offered by Web3, and the adoption of DApps by more people. Although DApps with different usage areas are developed every day, we cannot ensure the development and growth of Web3 unless we can solve the security problem.
 
+* Increasingly sophisticated attacks
+* Existing Web3 security firms keep developers waiting for weeks
+* It takes weeks to have reports of the security audits performed
+* Whitelist need in penetration testing and security auditing services
+* Developers focus only on smart contract security
+* Lack of Proof of Service and Proof of Resource in security audits performed
+
+DATS Project offers solutions to many stated and unstated problems through integrated cybersecurity services with Distributed High Computing Power (D-HPC).
+___
+
 The structure of the repository is as shown below:
 
 | Topic                                                 | Description                                                   |
