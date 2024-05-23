@@ -11,3 +11,5 @@ The DATS Project develops innovative products that will revolutionize Web3 and W
 DATS Project; Instead of centralized large and costly computing power, it will provide a huge pool of computing power with a large number of participants and small resources, which is decentralized and without investment costs. In this way, it will be ensured that the participants own the DATS Project and generate income. DATS Project is the first project that produces solutions to many problems in the field of transparent and evidence-based cybersecurity with the distributed computing power, blockchain and Web3 technology created.
 
 Thanks to the huge computing power provided by the participants, solutions will be produced to many problems in the fields of Web3 security, Web3 threat intelligence and Web2 cybersecurity.
+
+In addition to all this, what differentiates DATS from competitors is the uniqueness in payment model, DATS adopts a pay on demand model, whereby the service price is only a fractionalized cost of the classical cybersecurity products and services.
