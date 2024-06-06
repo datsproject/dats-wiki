@@ -1,3 +1,4 @@
+# WHAT IS THE DATS PROJECT
 DATS Project is the distributed Computing Power market place focused on WEB3 and WEB2 security and cyber threat intelligence.
 
 **Postmodern Web3 Security Infrastructure Paradigm!**
