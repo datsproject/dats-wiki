@@ -12,3 +12,6 @@
 6. Inability of countries to provide good cyber border security due to insufficient Computing Power.
 7. We will offer you the opportunity to experience being one step ahead of cybercriminals with the high computing power required by the cyber security industry.
 8. The fact that vulnerability search engines cannot provide the most up to date information due to limited resources.
+
+**Why aren't more people adopting Web3 dApps?**
+
