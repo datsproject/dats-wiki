@@ -1,6 +1,6 @@
 # SERVICES
 
-🔐 [DDOS Test]()
+🔐 [DDOS Test](ddos-test.md)
 
 🔐 [NFT Certification]()
 
