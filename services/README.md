@@ -2,7 +2,7 @@
 
 🔐 [DDOS Test](ddos-test.md)
 
-🔐 [NFT Certification]()
+🔐 [NFT Certification](nft-certification.md)
 
 🔐 [Web3 Threat Intelligence]()
 
