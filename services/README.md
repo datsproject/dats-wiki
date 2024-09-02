@@ -4,7 +4,7 @@
 
 🔐 [NFT Certification](nft-certification.md)
 
-🔐 [Web3 Threat Intelligence]()
+🔐 [Web3 Threat Intelligence](web3-threat-intelligence.md)
 
 🔐 [Decentralized Vulnerability Search Engine]()
 
