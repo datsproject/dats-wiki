@@ -6,7 +6,7 @@
 
 🔐 [Web3 Threat Intelligence](web3-threat-intelligence.md)
 
-🔐 [Decentralized Vulnerability Search Engine]()
+🔐 [Decentralized Vulnerability Search Engine](decentralized-vulnerability-search-engine.md)
 
 🔐 [Web3 dApp Pentest]()
 
