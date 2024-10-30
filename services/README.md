@@ -8,7 +8,7 @@
 
 🔐 [Decentralized Vulnerability Search Engine](decentralized-vulnerability-search-engine.md)
 
-🔐 [Web3 dApp Pentest](web3-dapp-pentest.md)
+🔐 [dApp & App Pentest](dapp-app-pentest.md)
 
 🔐 [Server Based Pentest]()
 
