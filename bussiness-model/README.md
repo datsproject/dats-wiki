@@ -1,6 +1,6 @@
 # 🗄️  BUSINESS MODEL
 
-[Our Solutions & Bussiness Model](bussiness-model.png)
+![Our Solutions & Bussiness Model](bussiness-model.png)
 
 1. Participants download the DATS Project Desktop application.
 
