@@ -1,6 +1,6 @@
 # Dats Project | Wiki
 
-## Overview
+## 📬 Overview
 Postmodern Web3 Security Infrastructure Paradigm!
 
 > [!NOTE]
