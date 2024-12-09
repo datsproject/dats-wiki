@@ -22,14 +22,14 @@ ___
 
 The structure of the repository is as shown below:
 
-| Topic                                                 | Description                                                   |
-| ----------------------------------------------------- | ------------------------------------------------------------- |
-| 🍀 [ABOUT US](about-us/)                              | About Us                                                      |
-| [WHAT IS THE DATSPROJECT](what-is-the-datsproject/)   | What Is The Dats Project                                      |
-| [PROBLEMS](problems/)                                 | Problems                                                      |
-| [SOLUTIONS](solutions/)                               | Solutions                                                     |
-| [SERVICES](services/)                                 | Services                                                      |
-| [OUR APPROACH](our-approach/)                         | Out Approach                                                  |
-| [WHY BLOCKCHAIN?](why-blockchain/)                    | Why Blockchain                                                |
-| [BUSINESS MODEL](bussiness-model/)                    | Bussiness Model                                               |
-| [WHAT MAKES US DIFFERENT?](what-makes-us-different/)  | What Makes Us Different                                       |
+| Topic                                                   | Description                                                   |
+| ------------------------------------------------------- | ------------------------------------------------------------- |
+| 🍀 [ABOUT US](about-us/)                                | About Us                                                      |
+| 👉 [WHAT IS THE DATSPROJECT](what-is-the-datsproject/)  | What Is The Dats Project                                      |
+| [PROBLEMS](problems/)                                   | Problems                                                      |
+| [SOLUTIONS](solutions/)                                 | Solutions                                                     |
+| [SERVICES](services/)                                   | Services                                                      |
+| [OUR APPROACH](our-approach/)                           | Out Approach                                                  |
+| [WHY BLOCKCHAIN?](why-blockchain/)                      | Why Blockchain                                                |
+| [BUSINESS MODEL](bussiness-model/)                      | Bussiness Model                                               |
+| [WHAT MAKES US DIFFERENT?](what-makes-us-different/)    | What Makes Us Different                                       |
