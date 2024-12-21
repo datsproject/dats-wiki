@@ -26,7 +26,7 @@ The structure of the repository is as shown below:
 | ------------------------------------------------------- | ------------------------------------------------------------- |
 | 🍀 [ABOUT US](about-us/)                                | About Us                                                      |
 | 👉 [WHAT IS THE DATSPROJECT](what-is-the-datsproject/)  | What Is The Dats Project                                      |
-| [PROBLEMS](problems/)                                   | Problems                                                      |
+| 👩‍🏫 [PROBLEMS](problems/)                                | Problems                                                      |
 | [SOLUTIONS](solutions/)                                 | Solutions                                                     |
 | [SERVICES](services/)                                   | Services                                                      |
 | [OUR APPROACH](our-approach/)                           | Out Approach                                                  |
