@@ -28,7 +28,7 @@ The structure of the repository is as shown below:
 | 👉 [WHAT IS THE DATSPROJECT](what-is-the-datsproject/)  | What Is The Dats Project                                      |
 | 👩‍🏫 [PROBLEMS](problems/)                                | Problems                                                      |
 | 🔊 [SOLUTIONS](solutions/)                              | Solutions                                                     |
-| [SERVICES](services/)                                   | Services                                                      |
+| 🌎 [SERVICES](services/)                                | Services                                                      |
 | [OUR APPROACH](our-approach/)                           | Out Approach                                                  |
 | [WHY BLOCKCHAIN?](why-blockchain/)                      | Why Blockchain                                                |
 | [BUSINESS MODEL](bussiness-model/)                      | Bussiness Model                                               |
