@@ -22,7 +22,7 @@ ___
 
 The structure of the repository is as shown below:
 
-| Topic                                                   | Description                                                   |
+| Topic                                                   | Description                                                  |
 | ------------------------------------------------------- | ------------------------------------------------------------- |
 | 🍀 [ABOUT US](about-us/)                                | About Us                                                      |
 | 👉 [WHAT IS THE DATSPROJECT](what-is-the-datsproject/)  | What Is The Dats Project                                      |
