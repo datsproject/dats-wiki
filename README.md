@@ -32,4 +32,4 @@ The structure of the repository is as shown below:
 | 📎 [OUR APPROACH](our-approach/)                        | Out Approach                                            |
 | ❔ [WHY BLOCKCHAIN?](why-blockchain/)                   | Why Blockchain                                          |
 | 🗄️ [BUSINESS MODEL](bussiness-model/)                   | Bussiness Model                                         |
-| 📑 [WHAT MAKES US DIFFERENT?](what-makes-us-different/) | What Makes Us Different                                       |
+| 📑 [WHAT MAKES US DIFFERENT?](what-makes-us-different/) | What Makes Us Different                                      |
